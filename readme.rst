@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+User Form for Registration and Login with PHP
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
