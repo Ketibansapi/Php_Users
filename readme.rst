@@ -23,12 +23,12 @@ of the CodeIgniter User Guide.
 Create the database in PHPmyadmin and fit it with the data name inside the project.
 
 ************
-Screenshots
+Screenshots Samples
 ************
 
 -  `Login Form <https://user-images.githubusercontent.com/42229194/54462902-e3498b80-47a3-11e9-9233-e8c3c5c61462.png>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
+-  `Registration Form <https://user-images.githubusercontent.com/42229194/54462903-e5134f00-47a3-11e9-8fd2-aea8538f0fbf.png>`_
+-  `Dashboard <https://user-images.githubusercontent.com/42229194/54462909-e6dd1280-47a3-11e9-8694-c303529d6325.png>`_
 
 
 *********
