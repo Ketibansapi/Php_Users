@@ -3,6 +3,7 @@ User Form for Registration and Login with PHP
 ###################
 
 This task has been done by using PHP framework called Codeigniter and get the templates from the Bootstrap.
+The database using SQL and this project not hosted yet.
 
 *******************
 Release Information
