@@ -25,7 +25,10 @@ Create the database in PHPmyadmin and fit it with the data name inside the proje
 ************
 Screenshots
 ************
-![Login Form](./images/login.png)
+![login](https://user-images.githubusercontent.com/42229194/54462902-e3498b80-47a3-11e9-9233-e8c3c5c61462.png)
+![registration](https://user-images.githubusercontent.com/42229194/54462903-e5134f00-47a3-11e9-8fd2-aea8538f0fbf.png)
+![dashboard](https://user-images.githubusercontent.com/42229194/54462909-e6dd1280-47a3-11e9-8694-c303529d6325.png)
+
 
 *********
 Resources (From Codeigniter)
