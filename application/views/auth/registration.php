@@ -12,52 +12,64 @@
               </div>
               <form class="user" method="post" action="<?= base_url('auth/registration');  ?>">
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user"  id="name" name="name" placeholder="Name">
+                  <input type="text" class="form-control form-control-user"  id="name" name="name" placeholder="Name" value="<?= set_value('name'); ?>">
+                  <?= form_error('name', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="number" class="form-control form-control-user"  id="nric" name="nric" placeholder="NRIC">
+                  <input type="number" class="form-control form-control-user"  id="nric" name="nric" placeholder="NRIC" value="<?= set_value('nric'); ?>">
+                  <?= form_error('nric', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user" id="email" name="email" placeholder="Email Address">
+                  <input type="text" class="form-control form-control-user" id="email" name="email" placeholder="Email Address" value="<?= set_value('email'); ?>">
+                  <?= form_error('email', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="number" class="form-control form-control-user"  id="mobile" name="mobile" placeholder="Mobile Number">
+                  <input type="number" class="form-control form-control-user"  id="mobile" name="mobile" placeholder="Mobile Number" value="<?= set_value('mobile'); ?>">
+                  <?= form_error('mobile', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user"  id="address" name="address" placeholder="Address">
+                  <input type="text" class="form-control form-control-user"  id="address" name="address" placeholder="Address" value="<?= set_value('address'); ?>">
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user"  id="city" name="city" placeholder="City">
+                  <input type="text" class="form-control form-control-user"  id="city" name="city" placeholder="City" value="<?= set_value('city'); ?>">
+                  <?= form_error('city', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user"  id="state" name="state" placeholder="State">
+                  <input type="text" class="form-control form-control-user"  id="state" name="state" placeholder="State" value="<?= set_value('state'); ?>">
+                  <?= form_error('state', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control form-control-user"  id="country" name="country" placeholder="Country">
+                  <input type="text" class="form-control form-control-user"  id="country" name="country" placeholder="Country" value="<?= set_value('country'); ?>">
+                  <?= form_error('country', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group">
-                  <input type="number" class="form-control form-control-user"  id="zip" name="zip" placeholder="Zip Code">
+                  <input type="number" class="form-control form-control-user"  id="zip" name="zip" placeholder="Zip Code" value="<?= set_value('zip'); ?>">
+                  <?= form_error('zip', '<small class="text-danger pl-3">', '</small>' ); ?>
                 </div>
 
                 <div class="form-group row">
                   <div class="col-sm-6 mb-3 mb-sm-0">
-                    <input type="password" class="form-control form-control-user" id="Password1" name="password1" placeholder="Password">
+                    <input type="password" class="form-control form-control-user" id="password1" name="password1" placeholder="Password">
+                    <?= form_error('password1', '<small class="text-danger pl-3">', '</small>' ); ?>
                   </div>
+
                   <div class="col-sm-6">
-                    <input type="password" class="form-control form-control-user" id="Password2" name="password2" placeholder="Repeat Password">
+                    <input type="password" class="form-control form-control-user" id="password2" name="password2" placeholder="Repeat Password">
                   </div>
                 </div>
+
                 <button type="submit" class="btn btn-primary btn-user btn-block">
                   Register Account
                 </button>
+
               </form>
               <hr>
               <div class="text-center">
