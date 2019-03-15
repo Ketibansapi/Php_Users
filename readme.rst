@@ -41,5 +41,5 @@ Resources (From Codeigniter)
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
 -  `Community Slack Channel <https://codeigniterchat.slack.com>`_
 
-Report any issues by create issues or email: dearyherdiano@gmail.com
+Report any issues by create issues or email: dearyherdiano@gmail.com ,
 Powered by CodeIgniter🙌
