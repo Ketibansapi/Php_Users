@@ -42,3 +42,4 @@ Resources (From Codeigniter)
 -  `Community Slack Channel <https://codeigniterchat.slack.com>`_
 
 Report any issues by create issues or email: dearyherdiano@gmail.com
+Powered by CodeIgniter🙌
