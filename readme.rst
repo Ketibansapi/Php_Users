@@ -25,7 +25,7 @@ Create the database in PHPmyadmin and fit it with the data name inside the proje
 ************
 Screenshots
 ************
-![Login Form](./assets/img/login.png)
+![Login Form](./images/login.png)
 
 *********
 Resources (From Codeigniter)
