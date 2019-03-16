@@ -37,4 +37,4 @@ of the CodeIgniter User Guide. Create the database in PHPmyadmin and fit it with
 -  [Community Slack Channel](https://codeigniterchat.slack.com)
 
 Report any issues by create issues or email: dearyherdiano@gmail.com ,
-Powered by CodeIgniter🔥
+powered by CodeIgniter🔥
