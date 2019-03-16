@@ -1,12 +1,12 @@
   <div class="container">
 
-    <div class="card border-0 shadow-lg my-5">
+    <div class="card border-0 shadow-lg my-5 col-lg-7 mx-auto">
       <div class="card-body p-0">
         <!-- Nested Row within Card Body -->
         <div class="row">
   <!--   <div class="col-lg-5 d-none d-lg-block bg-register-image"> </div> -->
 
-          <div class="col-lg-7">
+          <div class="col-lg">
             <div class="p-5">
               <div class="text-left">
                 <h1 class="h4 text-gray-900 mb-2">Enter Your Personal Information Below</h1>
@@ -93,6 +93,11 @@
                     <placeholder> Repeat Password </placeholder>
                     <input type="password" class="form-control " id="password2" name="password2" >
                   </div>
+                </div>
+
+                <div class="form-group">
+                  <placeholder> Upload Your Photo </placeholder>
+                  <input type="text" class="form-control "  id="photo" name="photo" placeholder="..." value="<?= set_value('photo'); ?>">
                 </div>
 
                 <button type="submit" class="btn btn-primary  btn-block">
