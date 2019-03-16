@@ -110,7 +110,7 @@ class Auth extends CI_Controller
           ];
 
           $this->db->insert('user', $data);
-          $this->session->set_flashdata('message', '<div class="alert alert-success" role="alert"> Congratulations! your information has been registered. Go Login! </div>');
+          $this->session->set_flashdata('message', '<i class="fas fa-check-circle fa-fw fa-pull-left fa-3x"></i> <p> Thank you for your submission  <br>We will process your application shortly. </br> </p> ');
           redirect('auth');
       }
    }
