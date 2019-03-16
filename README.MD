@@ -1,9 +1,9 @@
 ## User Form for Registration and Login with PHP
-> This task has been done by using PHP framework called Codeigniter and get the templates from the Bootstrap.
+This task has been done by using PHP framework called Codeigniter and get the templates from the Bootstrap.
 The database choosen using SQL and this project not hosted yet which means still in localhost.
 
 ## Another Information
-> Since this project still in local, then it must using XAMPP Server and create the database first in PHPmyadmin. PHP version 5.6 or newer is recommended.
+Since this project still in local, then it must using XAMPP Server and create the database first in PHPmyadmin. PHP version 5.6 or newer is recommended.
 
 ## Installation
 
@@ -20,11 +20,11 @@ of the CodeIgniter User Guide. Create the database in PHPmyadmin and fit it with
 ## Resources (From Codeigniter)
 
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+-  User Guide (https://codeigniter.com/docs)
+-  Language File Translations (https://github.com/bcit-ci/codeigniter3-translations)
+-  Community Forums (http://forum.codeigniter.com/)
+-  Community Wiki (https://github.com/bcit-ci/CodeIgniter/wiki)
+-  Community Slack Channel (https://codeigniterchat.slack.com)
 
 Report any issues by create issues or email: dearyherdiano@gmail.com ,
 Powered by CodeIgniter🔥
