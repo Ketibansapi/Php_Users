@@ -7,7 +7,7 @@ Since this project still in local, then it must using XAMPP Server and create th
 
 ## Installation
 
-> Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
+> Please see the [installation section](https://codeigniter.com/user_guide/installation/index.html)
 of the CodeIgniter User Guide. Create the database in PHPmyadmin and fit it with the data name inside the project.
 
 ## Screenshots Samples
