@@ -12,19 +12,29 @@ of the CodeIgniter User Guide. Create the database in PHPmyadmin and fit it with
 
 ## Screenshots Samples
 
+Information form
+![Screenshot (22)](https://user-images.githubusercontent.com/42229194/54480991-ab088280-4861-11e9-82f4-4465574328e7.png)
 
--  `Login Form <https://user-images.githubusercontent.com/42229194/54462902-e3498b80-47a3-11e9-9233-e8c3c5c61462.png>`_
--  `Registration Form <https://user-images.githubusercontent.com/42229194/54462903-e5134f00-47a3-11e9-8fd2-aea8538f0fbf.png>`_
--  `Dashboard <https://user-images.githubusercontent.com/42229194/54462909-e6dd1280-47a3-11e9-8694-c303529d6325.png>`_
+Required Information
+![Screenshot (27)](https://user-images.githubusercontent.com/42229194/54481006-d8553080-4861-11e9-95bb-be0b7c29bdac.png)
+
+Review Information
+![Screenshot (33)](https://user-images.githubusercontent.com/42229194/54481017-fc187680-4861-11e9-9e80-b35d6ed8991b.png)
+
+Success Alert
+![Screenshot (28)](https://user-images.githubusercontent.com/42229194/54481021-10f50a00-4862-11e9-9d76-1bf4d8ccf30b.png)
+
+Database (SQL)
+![Screenshot (29)](https://user-images.githubusercontent.com/42229194/54481024-1d796280-4862-11e9-9537-d957a856e10d.png)
 
 ## Resources (From Codeigniter)
 
 
--  User Guide (https://codeigniter.com/docs)
--  Language File Translations (https://github.com/bcit-ci/codeigniter3-translations)
--  Community Forums (http://forum.codeigniter.com/)
--  Community Wiki (https://github.com/bcit-ci/CodeIgniter/wiki)
--  Community Slack Channel (https://codeigniterchat.slack.com)
+-  [User Guide](https://codeigniter.com/docs)
+-  [Language File Translations](https://github.com/bcit-ci/codeigniter3-translations)
+-  [Community Forums](http://forum.codeigniter.com/)
+-  [Community Wiki](https://github.com/bcit-ci/CodeIgniter/wiki)
+-  [Community Slack Channel](https://codeigniterchat.slack.com)
 
 Report any issues by create issues or email: dearyherdiano@gmail.com ,
 Powered by CodeIgniter🔥
